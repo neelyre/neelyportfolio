@@ -18,6 +18,13 @@ h1 {
 
 }
 
+h4 {
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+
 .media{
   padding: 5px 5px;
 }
@@ -28,4 +35,8 @@ h1 {
 
 .media-heading {
   padding: 10px;
+}
+
+.linktext{
+  color: white;
 }
