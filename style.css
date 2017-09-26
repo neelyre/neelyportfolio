@@ -1,0 +1,31 @@
+body {
+  background-image: url("images/background_image.png");
+  background-color: azure;
+  font-family: 'Bree Serif', serif;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.btn btn-outline-success {
+  padding: 15px 15px;
+}
+
+.rickpic {
+
+}
+
+.media{
+  padding: 5px 5px;
+}
+
+.media-body {
+  color: #DDDDDD;
+}
+
+.media-heading {
+  padding: 10px;
+}
