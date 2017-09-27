@@ -31,9 +31,11 @@ h4 {
 
 .media-body {
   color: #DDDDDD;
+  padding: 15px;
 }
 
 .media-heading {
+  font-family: 'Dosis', sans-serif;
   padding: 10px;
 }
 
@@ -46,6 +48,7 @@ h4 {
 }
 
 .aboutme{
+  font-family: 'Dosis', sans-serif;
   padding: 10px;
 }
 
