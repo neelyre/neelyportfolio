@@ -4,10 +4,21 @@ body {
   font-family: 'Bree Serif', serif;
 }
 
-h1 {
+h1,  {
   color: white;
   text-align: center;
   padding: 10px;
+}
+
+.headers  {
+  color: white;
+  padding: 8px;
+  border-style: solid;
+  border-color: green;
+}
+
+li {
+  color: white;
 }
 
 .btn btn-outline-success {
